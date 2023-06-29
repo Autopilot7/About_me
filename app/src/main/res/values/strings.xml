@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Le Ngoc Toan</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">As a freshman in Computer Science, I am excited to embark on my journey in this dynamic and ever-evolving field.
+        \n\n\n My passion for technology and problem-solving drives me to learn and explore the various aspects of computer science, from programming and software development to algorithm design and analysis.
+        \n\n\n I am eager to apply my skills and knowledge to real-world challenges and contribute to the advancement of technology.</string>
+    <string name="What_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
